@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<div class="container">
+<header>
+<h1>Active Directory Project Diagram</h1>
+<p>This section focuses on creating a network diagram for our Active Directory project using
+<a href="https://www.draw.io/">draw.io</a>.</p>
+</header>
+<main>
+<section>
+<h2>Building the Diagram</h2>
+<p>We will use the following components in our diagram:</p>
+<ul>
+<li><strong>Splunk Server</strong>: <span>192.168.10.10</span></li>
+<li><strong>Active Directory Server</strong>: <span>192.168.10.20</span></li>
+<li><strong>Target Machine (Windows 10)</strong>: DHCP assigned</li>
+<li><strong>Attacker Machine (Kali Linux)</strong>: <span>192.168.10.250</span></li>
+<li><strong>Switch</strong>: To connect all devices within the network</li>
+<li><strong>Router</strong>: To connect the internal network to the internet</li>
+<li><strong>Cloud</strong>: To represent the internet</li>
+</ul>
+</section>
+
+<a href="https://ibb.co/MBN9j6m"><img src="https://i.ibb.co/CP0WX2f/Diagram.png" alt="Diagram" border="0"></a>
+
+</main>
+</div>
+</body>
+</html>
